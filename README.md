@@ -1,5 +1,4 @@
 ## 👋 Hi, I am Pinho, Rafael Pinho.
-(Yeah, do you remember?)
 
 ### 💻 I'm currently working at: RP Soluções.
 

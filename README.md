@@ -7,10 +7,10 @@
 ### 👀 Technologies & tools I’m interested in:
 - Back-end:
 ![C# (.NET 5)](https://img.shields.io/badge/-C%23%20(.NET%205)-purple?style=flat-square&logo=csharp)
-![PHP](https://img.shields.io/badge/-PHP-gray?style=flat-square&logo=php)
-![NodeJS](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-darkblue?style=flat-square&logo=typescript)
-![Firebase](https://img.shields.io/badge/-Firebase-white?style=flat-square&logo=firebase)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 
 - Front-end:
 ![Angular](https://img.shields.io/badge/-Angular-darkred?style=flat-square&logo=angular)
@@ -27,7 +27,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=postgresql)
 ![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite)
-![Oracle](https://img.shields.io/badge/-Oracle-red?style=flat-square&logo=oracle)
+![Oracle](https://img.shields.io/badge/-Oracle-darkred?style=flat-square&logo=oracle)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 - Systems, services & tools:
@@ -41,8 +41,8 @@
 - Others:
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
-![Arduino](https://img.shields.io/badge/-Arduino-gray?style=flat-square&logo=arduino)
-![STM32](https://img.shields.io/badge/-STM32-gray?style=flat-square&logo=arm)
+![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
+![STM32](https://img.shields.io/badge/-STM32-black?style=flat-square&logo=arm)
 
 ### 📫 How to reach me:
 - LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/faelpinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faelpinho/)](https://www.linkedin.com/in/faelpinho/)

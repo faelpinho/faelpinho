@@ -6,7 +6,7 @@
 
 ### 👀 Technologies & tools I’m interested in:
 - Back-end:
-![C# (.NET Core 3.1/6)](https://img.shields.io/badge/-C%23%20(.NET%205)-purple?style=flat-square&logo=csharp)
+![C# (.NET Core 3.1/6)](https://img.shields.io/badge/-C%23%20(.NET%206/Core%203.1)-purple?style=flat-square&logo=csharp)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-darkblue?style=flat-square&logo=typescript)

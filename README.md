@@ -1,8 +1,8 @@
 ## 👋 Hi, I am Pinho, Rafael Pinho.
 
-### 💻 I'm currently working at: RP Soluções.
+### 💻 I'm currently working at: Linx.
 
-### 🌱 I’m learning at the moment: ![Flutter/Dart](https://img.shields.io/badge/-Flutter-lightblue?style=flat-square&logo=flutter)
+### 🌱 I’m learning at the moment: ![Rust](https://img.shields.io/badge/-Rust-gray?style=flat-square&logo=rust)
 
 ### 👀 Technologies & tools I’m interested in:
 - Back-end:
@@ -39,6 +39,7 @@
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-gray?style=flat-square&logo=rabbitmq)
 
 - Others:
+![Flutter/Dart](https://img.shields.io/badge/-Flutter-lightblue?style=flat-square&logo=flutter)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 ![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)

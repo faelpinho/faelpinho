@@ -50,5 +50,6 @@
 
 - Medium: [![Medium Badge](https://img.shields.io/badge/faelpinho-black?style=flat-square&logo=Medium&logoColor=white&link=https://faelpinho.medium.com/)](https://faelpinho.medium.com/)
 
-
+<!--
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faelpinho&hide=TeX&layout=compact)
+-->

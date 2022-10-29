@@ -1,55 +1,55 @@
-## 👋 Hi, I am Pinho, Rafael Pinho.
+### 👋 Hi. How are you? I'm hope you're doing well. Nice to see you here!
+Here. ☕ Please, sit, take a coffee and feel free. I'll introduce myself.
 
-### 💻 I'm currently working at: Linx.
+Most known as Pinho, I'm Rafael, 29 years old, and I live in Rio de Janeiro city. I have most than 10 years working with technology, and I'm looking for opportunities aiming international teams and markets.
+I'm autodidatic, having experience mainly with C# (.Net Core 3.1 and .Net 6), Javascript (ES2018), PHP, and I like to try many others languages (see my projects on Github. I made a little project in Assembly, for example).
+I think it's important to mention that I have intermediate English with conversation (CEFR level: B2) and a passport valid until 2027.
 
-### 🌱 I’m learning at the moment: ![Rust](https://img.shields.io/badge/-Rust-gray?style=flat-square&logo=rust)
+### Main knowledge (but not limited to):
+- Front-end: Javascript/Typescript (ES2018), React, Angular, TailwindCSS, Bootstrap, SASS/SCSS.
+- Back-end: C# (advanced), PHP7 (intermediate) and NodeJS (basic).
+- Databases: Oracle, PL/SQL, SQL Server, PostgreSQL, MySQL, MongoDB.
+- Cloud knowledgements: Amazon AWS, Azure, GCP + Google Firebase (Backend as a Service).
+- DevOps knowledgements: pipeline CI/CD, Jenkins, SonarQube, Azure DevOps, containerization using Docker and Podman.
+- OS knowledgements: Windows, MacOS and Linux (Debian, CentOS, Ubuntu, Mint, WSL2).
+- Methodologies: Kanban, Squads Scrum, Kanban and Pair Programming. 
 
-### 👀 Technologies & tools I’m interested in:
-- Back-end:
-![C# (.NET Core 3.1/6)](https://img.shields.io/badge/-C%23%20(.NET%206/Core%203.1)-purple?style=flat-square&logo=csharp)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-![NodeJS](https://img.shields.io/badge/-NodeJS-black?style=flat-square&logo=Node.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-darkblue?style=flat-square&logo=typescript)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+### Others languages:
+- C, C++, Assembly (basic), Python, and Java.
+- A bit experience with electronics e embedded systems (Arduino, STM32, IoT, C and C++).
 
-- Front-end:
-![Angular](https://img.shields.io/badge/-Angular-darkred?style=flat-square&logo=angular)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![Material UI](https://img.shields.io/badge/-Material%20UI-1572B6?style=flat-square&logo=mui)
-![SASS](https://img.shields.io/badge/-SASS-white?style=flat-square&logo=sass)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat-square&logo=tailwindcss)
+### Currently I'm studying:
+- English (always).
+- Rust.
 
-- Databases:
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=postgresql)
-![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite)
-![Oracle](https://img.shields.io/badge/-Oracle-darkred?style=flat-square&logo=oracle)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+Now, please, talk me about you, about your project and which the problems I need to solve in.
 
-- Systems, services & tools:
-![Windows](https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=windows)
-![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-gray?style=flat-square&logo=rabbitmq)
 
-- Others:
-![Flutter/Dart](https://img.shields.io/badge/-Flutter-lightblue?style=flat-square&logo=flutter)
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
-![Arduino](https://img.shields.io/badge/-Arduino-black?style=flat-square&logo=arduino)
-![STM32](https://img.shields.io/badge/-STM32-black?style=flat-square&logo=arm)
+#### Em Português:
+Mais conhecido como Pinho, sou Rafael, tenho 29 anos e moro no Rio de Janeiro. Possuo mais de 10 anos na área de tecnologia, e estou buscando atuar como desenvolvedor (seja back-end, full-stack ou mobile) visando equipes e mercados internacionais.
+Sou autodidata, tenho experiência principalmente com C# (.Net framework, .Net Core e .Net 6), Javascript e PHP, e gosto de experimentar outras linguagens (veja no meu Github, tem até um projeto em Assembly que fiz no passado). Acho importante mencionar que possuo inglês intermediário com conversação (CEFR level: B2) e passaporte válido até 2027.
+
+### Principais conhecimentos (mas não limitados):
+- Front-end: Javascript e Typescript (ES2018), React, Angular, TailwindCSS, Bootstrap, SASS/SCSS.
+- Back-end: C# (avançado), PHP7 (intermediário) e NodeJS (básico).
+- Databases: Oracle, PL/SQL, SQL Server, PostgreSQL, MySQL, MongoDB.
+- Cloud Amazon AWS, Azure e Google Firebase (Backend as a Service).
+- Cultura DevOps: pipeline CI/CD, Jenkins, SonarQube, Azure Devops, conteinerização com Docker e Podman (daemonless).
+- Conhecimento de sistemas Windows, MacOS e Linux (Debian, CentOS, Ubuntu, Mint e WSL2).
+- Vivência em metodologias ágeis: Squads Scrum, quadro Kanban, e Pair Programming.
+
+### Outras linguagens:
+- C, C++, Assembly (x86, z80 - básico), Python, e Java.
+- Um pouco de experiência em eletrônica e sistemas embarcados (Arduino, STM32, IoT, C e C++).
+
+Atualmente estou estudando:
+- Inglês (sempre).
+- Rust.
+
+Agora, por favor, me fale um pouco sobre você, sobre o seu projeto e os problemas que preciso solucionar nele.
 
 ### 📫 How to reach me:
 - LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/faelpinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faelpinho/)](https://www.linkedin.com/in/faelpinho/)
 
 - Medium: [![Medium Badge](https://img.shields.io/badge/faelpinho-black?style=flat-square&logo=Medium&logoColor=white&link=https://faelpinho.medium.com/)](https://faelpinho.medium.com/)
 
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faelpinho&hide=TeX&layout=compact)
--->

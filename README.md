@@ -20,9 +20,7 @@ Better known as Pinho, I am Rafael, 31 years old, and currently living in Rio de
 - Vue3 (it's a very nice framework!)
 
 ### How to reach me:
-- LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/in/faelpinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faelpinho/)](https://www.linkedin.com/in/faelpinho/)
-- Youtube: [![Youtube Badge](https://img.shields.io/badge/@faelpinho-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCWjFi3Xp6KkptuhoIQlJq_g)](https://www.youtube.com/channel/UCWjFi3Xp6KkptuhoIQlJq_g)
-- Medium: [![Medium Badge](https://img.shields.io/badge/@faelpinho-black?style=flat-square&logo=Medium&logoColor=white&link=https://faelpinho.medium.com/)](https://faelpinho.medium.com/)
+- [![Linkedin Badge](https://img.shields.io/badge/in/faelpinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/faelpinho/)](https://www.linkedin.com/in/faelpinho/) [![Youtube Badge](https://img.shields.io/badge/@faelpinho-red?style=flat-square&logo=Youtube&logoColor=white&link=https://www.youtube.com/channel/UCWjFi3Xp6KkptuhoIQlJq_g)](https://www.youtube.com/channel/UCWjFi3Xp6KkptuhoIQlJq_g)  [![Medium Badge](https://img.shields.io/badge/@faelpinho-black?style=flat-square&logo=Medium&logoColor=white&link=https://faelpinho.medium.com/)](https://faelpinho.medium.com/)
 
 
 
